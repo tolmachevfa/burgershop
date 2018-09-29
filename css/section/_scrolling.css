@@ -1,0 +1,8 @@
+.scrolling {
+  position: fixed;
+  z-index: 100; }
+
+.arrow__bottom {
+  position: fixed;
+  top: 95vh;
+  right: 50vw; }
